@@ -1,0 +1,32 @@
+{
+  "name": "alagator",
+  "version": "0.0.0",
+  "description": "Write algorithms that can be re-used for synchronous and asynchronous code",
+  "keywords": [
+    "promises",
+    "promises-A",
+    "promises-aplus",
+    "async",
+    "asynchronous",
+    "sync",
+    "synchronous",
+    "ES6",
+    "yield",
+    "generators",
+    "harmony",
+    "await"
+  ],
+  "dependencies": {
+    "promise": "https://github.com/then/promise/archive/336b769b88d63b7a7b9d176d4eb6a956ae1e4591.tar.gz"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node --harmony-generators --harmony test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/alagator.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
