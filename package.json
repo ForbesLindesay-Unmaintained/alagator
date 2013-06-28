@@ -1,6 +1,6 @@
 {
   "name": "alagator",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Write algorithms that can be re-used for synchronous and asynchronous code",
   "keywords": [
     "promises",
