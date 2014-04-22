@@ -2,9 +2,9 @@
 
 Write algorithms that can be re-used for synchronous and asynchronous code using promises and `yield`
 
-[![Build Status](https://travis-ci.org/ForbesLindesay/alagator.png?branch=master)](https://travis-ci.org/ForbesLindesay/alagator)
-[![Dependency Status](https://gemnasium.com/ForbesLindesay/alagator.png)](https://gemnasium.com/ForbesLindesay/alagator)
-[![NPM version](https://badge.fury.io/js/alagator.png)](http://badge.fury.io/js/alagator)
+[![Build Status](https://img.shields.io/travis/ForbesLindesay/alagator/master.svg)](https://travis-ci.org/ForbesLindesay/alagator)
+[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/alagator.svg)](https://gemnasium.com/ForbesLindesay/alagator)
+[![NPM version](https://img.shields.io/npm/v/alagator.svg)](http://badge.fury.io/js/alagator)
 
 ## Installation
 
