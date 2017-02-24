@@ -1,5 +1,7 @@
 # alagator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/alagator.svg)](https://greenkeeper.io/)
+
 Write algorithms that can be re-used for synchronous and asynchronous code using promises and `yield`
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/alagator/master.svg)](https://travis-ci.org/ForbesLindesay/alagator)
